@@ -1,6 +1,6 @@
-# DLAC — Deep Learning Academic Coursework
+# DLAC — Deep Learning with Accelerated Computing
 
-This repository contains academic lab coursework, practical assignments, and deep learning implementations.
+This repository contains lab coursework, practical assignments, and accelerated deep learning implementations.
 
 ---
 
